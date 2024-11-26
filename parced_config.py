@@ -8,4 +8,3 @@ USER_DATA_DIR =  "/user_data"
 
 # MM setup
 MM_PASSWORD = os.getenv('METAMASK_PASSWORD')
-MM_KEY = os.getenv('METAMASK_KEY').split()
